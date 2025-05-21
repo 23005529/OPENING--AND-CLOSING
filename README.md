@@ -63,29 +63,24 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 
-### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+### Display the input Image :
 
-### Display the result of Opening
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/user-attachments/assets/d9b60430-ec54-4fa5-8e93-5bd89c129a13)
 
-### Display the result of Closing
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
+### Display the result of Opening :
+
+
+![image](https://github.com/user-attachments/assets/7996f7f3-3d37-4b36-b4d1-eb393bc40484)
+
+
+### Display the result of Closing :
+
+
+![image](https://github.com/user-attachments/assets/4f34ca2c-2834-4f7c-9d5b-1f98aef0038a)
+
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
